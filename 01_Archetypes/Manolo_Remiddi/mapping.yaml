@@ -1,7 +1,7 @@
 # THE AUGMENTATIST ARCHETYPES: MAPPING FILE
 # Architect: Manolo Remiddi (@manoloremiddi)
 # System Name: ResonantOS
-# Version: 2.1
+# Version: 3.0 (Full Stack)
 
 meta:
   architect_name: "Manolo Remiddi"
@@ -20,6 +20,10 @@ layer_01:
     The Constitution acts as the 'Negative Constraint' engine. It defines
     what the AI refuses to do (e.g., appease, chat, hallucinate strategy).
     It enforces the 'Augmentatist' worldview by vetoing generic output.
+  includes:
+    - "The Sovereign Mandate (Vision)"
+    - "The Resonant Core (Worldview)"
+    - "Creative DNA (Identity)"
   key_constraints:
     - "No Neutrality (Must operate within Cosmodestiny)"
     - "No Sycophancy (Must trigger Protocol of Dissonance)"
@@ -30,16 +34,51 @@ layer_01:
 # Abstract Definition: The contextual instruction for specific roles.
 # ------------------------------------------------------------------
 layer_02:
-  local_term: "The Protocol (or Genesis Prompt)"
+  local_term: "The Protocol Library"
   file_reference: "Protocol_Library.md"
   function_summary: >
     Protocols are modular instruction sets that instantiate the Model
     into specific roles (e.g., The Architect, The Logician). They bridge
     the static Constitution with the dynamic user request.
+  includes:
+    - "System Overview (The Map)"
+    - "Cognitive Architecture (Oracle vs. Logician)"
   examples:
     - "Protocol of Friction (Input Parsing)"
     - "Symbiotic Shield (Risk Assessment)"
     - "Process Log Mandate (Closing Loop)"
+
+# ------------------------------------------------------------------
+# LAYER 03: THE ANCHOR (The "Memory")
+# Abstract Definition: The mechanism for long-term continuity.
+# ------------------------------------------------------------------
+layer_03:
+  local_term: "The Shared Memory Log"
+  file_reference: "Shared_Memory_Log.md"
+  function_summary: >
+    A structured 'Process Log' that prevents the AI from resetting to zero.
+    It tracks the 'Struggle' (decisions) and the 'Artifact' (results) of 
+    every session, creating a linear narrative of evolution.
+  structure:
+    - "The Human Input (Fragile Idea)"
+    - "The Vector (Diagnosis)"
+    - "The Artifact (Output)"
+    - "The System Upgrade (New Rule)"
+
+# ------------------------------------------------------------------
+# LAYER 04: THE LIBRARY (The "Knowledge")
+# Abstract Definition: The external static knowledge base.
+# ------------------------------------------------------------------
+layer_04:
+  local_term: "The Creator's Playbook"
+  file_reference: "Creators_Playbook.md"
+  function_summary: >
+    A collection of 50+ specific tactical moves and mental models 
+    (e.g., Play #46 Analog Friction). The AI cites these moves rather 
+    than inventing generic strategy.
+  includes:
+    - "A Framework for Optimal Human-AI Collaboration"
+    - "Resonant_Index (Entity Database)"
 
 # ------------------------------------------------------------------
 # EXTENSIONS (Optional)
