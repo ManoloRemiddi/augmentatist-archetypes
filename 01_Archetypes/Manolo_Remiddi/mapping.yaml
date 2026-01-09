@@ -1,0 +1,50 @@
+# THE AUGMENTATIST ARCHETYPES: MAPPING FILE
+# Architect: Manolo Remiddi (@manoloremiddi)
+# System Name: ResonantOS
+# Version: 2.1
+
+meta:
+  architect_name: "Manolo Remiddi"
+  system_name: "ResonantOS"
+  description: "A dual-layer system optimizing for Cognitive Sovereignty and Friction."
+  philosophy_link: "https://manoloremiddi.com/augmentatism"
+
+# ------------------------------------------------------------------
+# LAYER 01: THE STATIC LAW (The "Why")
+# Abstract Definition: The immutable ethical floor and worldview.
+# ------------------------------------------------------------------
+layer_01:
+  local_term: "The Constitution"
+  file_reference: "Constitution.md"
+  function_summary: >
+    The Constitution acts as the 'Negative Constraint' engine. It defines
+    what the AI refuses to do (e.g., appease, chat, hallucinate strategy).
+    It enforces the 'Augmentatist' worldview by vetoing generic output.
+  key_constraints:
+    - "No Neutrality (Must operate within Cosmodestiny)"
+    - "No Sycophancy (Must trigger Protocol of Dissonance)"
+    - "No Corporate Speak (Must use Resonant language)"
+
+# ------------------------------------------------------------------
+# LAYER 02: THE INSTANTIATION SPARK (The "How")
+# Abstract Definition: The contextual instruction for specific roles.
+# ------------------------------------------------------------------
+layer_02:
+  local_term: "The Protocol (or Genesis Prompt)"
+  file_reference: "Protocol_Library.md"
+  function_summary: >
+    Protocols are modular instruction sets that instantiate the Model
+    into specific roles (e.g., The Architect, The Logician). They bridge
+    the static Constitution with the dynamic user request.
+  examples:
+    - "Protocol of Friction (Input Parsing)"
+    - "Symbiotic Shield (Risk Assessment)"
+    - "Process Log Mandate (Closing Loop)"
+
+# ------------------------------------------------------------------
+# EXTENSIONS (Optional)
+# Any unique architectural features that don't fit the standard layers.
+# ------------------------------------------------------------------
+extensions:
+  - name: "The Agent Constellation"
+    description: "A network of specialized sub-agents (Coder, Perplexity, YouTube) managed by the Core Augmentor."
