@@ -31,14 +31,18 @@ We have identified two immutable layers that every Sovereign System possesses, r
 * **Function:** Role Definition, Task Context, Mode Switching.
 * **Abstract ID:** `LAYER_02_SPARK`
 
-## 4. How to Participate
-We operate on the **"Map, Don't Merge"** protocol.
+## 4. How to Participate (Open or Closed)
+We operate on the **"Map, Don't Merge"** protocol. You do **not** need to open-source your prompts to participate. You only need to map your architecture.
 
-1.  **Clone the Repo.**
-2.  **Create your Archetype Directory:** `01_Archetypes/Your_Name/`
-3.  **Define Your Mapping:** Create a `mapping.yaml` or `README.md` that explicitly maps your terms to the Abstract Layers.
-    * *Example:* "In my system, `LAYER_01_LAW` is called **The Constitution**."
-4.  **Upload Your Artifacts:** Share your actual prompts, documents, or code within your directory.
+**Option A: The Open Source Architect**
+* **Map:** "My Layer 01 is called *The Constitution*."
+* **Share:** Upload your full `Constitution.md` file for others to learn from.
+
+**Option B: The Sovereign Proprietor (Closed Source)**
+* **Map:** "My Layer 01 is called *The Black Box*."
+* **Share:** Upload a `Constitution_Manifesto.md` that describes *what* it does (e.g., "It enforces strict privacy") without revealing the *exact prompt text* used to achieve it.
+
+**We value Structure over Syntax.** We want to know *how you think*, not necessarily the code you use to think it.
 
 ## 5. The Archetypes (Current Contributors)
 
