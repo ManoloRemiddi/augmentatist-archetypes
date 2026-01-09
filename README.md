@@ -9,7 +9,7 @@ Every creator, thinker, and architect is inventing their own lexicon to describe
 * Another calls it a *Genesis Frame*.
 * Another calls it a *System Prompt*.
 
-This fragmentation threatens to isolate us. If we cannot map our concepts to one another, we cannot collaborate. But if we force a single "Universal Terminology," we commit **Cognitive Colonization**—stripping the poetic precision from individual creators.
+This fragmentation threatens to isolate us. If we cannot map our concepts to one another, we cannot collaborate. But if we force a single "Universal Terminology," we commit **Cognitive Colonization**, stripping the poetic precision from individual creators.
 
 ## 2. The Solution: The Open Interface (Rosetta Stone)
 **The Augmentatist Archetypes** is not a dictionary. It is a functional map.
